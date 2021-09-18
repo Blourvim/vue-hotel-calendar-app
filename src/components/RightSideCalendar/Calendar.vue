@@ -50,4 +50,7 @@
     display:block;
     background:var(--primary)
 }
+.form-control{
+    display:none;
+}
 </style>

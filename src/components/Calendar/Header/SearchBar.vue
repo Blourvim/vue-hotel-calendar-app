@@ -1,5 +1,5 @@
 <template>
-  <input placeholder="&emsp;&emsp;&emsp;Aramak İstediğiniz Metni Yazınız" type='text'/>
+  <input placeholder="&emsp;&emsp;&emsp;Aramak istediğiniz metni yazınız" type='text'/>
   <img src="../../../assets/Magnify.svg" alt="">
 </template>
 

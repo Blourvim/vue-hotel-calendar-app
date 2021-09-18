@@ -1,8 +1,8 @@
 <template>
   <header>
-    <a>
-ODALAR
-    </a>
+    <h3>
+Odalar
+    </h3>
     <a id="sayı">9</a>
     <a>Boş Oda</a>
 <SearchBar/>
@@ -32,6 +32,18 @@ header{
   color: var(--primary-highlight);
 }
 a{
-  margin-top:  0.4em;
+  margin-top:  0.7em;
+  margin-right: 0.4em;
+  font-size: 70%;
+  font-weight: 400;
+  color:var(--secondary-font)
+}
+h3{
+  font-weight: lighter;
+  margin-top: 0%;
+  margin-left:4% ;
+  margin-right:4% ;
+  color:rgb(59, 59, 58)
+
 }
 </style>

@@ -11,11 +11,11 @@
     </div>
         </div>
     <nav>
-<button><img src="../assets/Rooms.svg" alt="sad"/>Yönetim Paneli</button>
-<button id='current-tab'><img src="../assets/Room.svg" alt="sad"/>Odalar</button>
-<button><img src="../assets/Social.svg" alt="sad"/>Topluluk</button>
-<button><img src="../assets/Chat.svg" alt="sad"/>Mesajlar</button>
-<button><img src="../assets/Statistics.svg" alt="sad"/>İstatistikler</button>
+<div><img src="../assets/Rooms.svg" alt="sad"/>Yönetim Paneli</div>
+<div id='current-tab'><img src="../assets/Room.svg" alt="sad"/>Odalar</div>
+<div><img src="../assets/Social.svg" alt="sad"/>Topluluk</div>
+<div><img src="../assets/Chat.svg" alt="sad"/>Mesajlar</div>
+<div><img src="../assets/Statistics.svg" alt="sad"/>İstatistikler</div>
 
     </nav>
     </div>
@@ -38,7 +38,7 @@ width: 15%;
     background:var(--primary-highlight);
     width: 2.5em; height: 2.5em;
     border-radius: 50%;
-    margin:1em
+    margin:1em;
 }
 h3{
     color:var(--secondary);
@@ -48,7 +48,9 @@ h3{
     font-weight: 400;
 }
 #hotel-card{
-    display:flex
+    display:flex;
+    margin-top:1.5em
+
 }
 #hotel-card-text{
 color:#6479C0;
@@ -65,19 +67,23 @@ nav{
     margin-left: 1.5em;
     margin-top:2em;
 }
-button{
-    margin-bottom: 2em;
+nav div{
+    margin-bottom: 1em;
     border:none;
-    padding:1em;
+    padding:0.5em;
     border-radius:10px;
     cursor:pointer;
-    background:var(--secondary)
+    background:var(--secondary);
+    color:var(--secondary-text)
 
 }
-button :hover{
-}
+
 #current-tab{
     background:var(--primary-highlight);
     color:var(--secondary)
+}
+img{
+    margin-right: 1em;
+    margin-bottom: -0.2em;
 }
 </style>
