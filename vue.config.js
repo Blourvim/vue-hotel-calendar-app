@@ -1,3 +1,5 @@
 module.exports = {
-    publicPath: '/vue-hotel-calendar/'
+    publicPath: process.env.NODE_ENV === 'production'
+      ? '/vue-hotel-calendar-app/'
+      : '/'
   }
