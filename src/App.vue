@@ -15,7 +15,12 @@ import RightSideCalendar from './components/RightSideCalendar/Calendar.vue'
 BigCalendar,
 SideNavigation,
 RightSideCalendar
-     }
+     },
+     data() {
+      return {
+          rooms : []
+      }
+    }
  }
 </script>
 

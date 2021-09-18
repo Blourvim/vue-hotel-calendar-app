@@ -18,6 +18,10 @@
 <div><img src="../assets/Statistics.svg" alt="sad"/>İstatistikler</div>
 
     </nav>
+    <div id='exit'>
+        <img src="../assets/Logout.png" alt="Çıkış">
+        <a>Çıkış</a>
+    </div>
     </div>
 
 </template>
@@ -85,5 +89,15 @@ nav div{
 img{
     margin-right: 1em;
     margin-bottom: -0.2em;
+}
+#exit img{
+    height:2rem;width:2rem;
+    margin-bottom:-0.6rem;
+}
+#exit{
+    position:absolute;
+    bottom:2rem;
+    left:3rem;
+    color:var(--secondary-text);
 }
 </style>

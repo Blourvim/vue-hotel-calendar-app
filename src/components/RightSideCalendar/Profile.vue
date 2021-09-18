@@ -6,7 +6,7 @@
       <img class='button-image' src="../../assets/Notification.svg" alt="notification">
       </div>
       <div id="profile-bar">
-          <img id='profile-img' src="https://picsum.photos/40/40" alt="profile-picture">
+          <img id='profile-img' src="../../assets/Ellipse.png" alt="profile-picture">
      <div id="proile-texts"> 
         <p>Esra İzen</p>
         <a>Resepsiyon</a>

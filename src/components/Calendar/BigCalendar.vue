@@ -1,19 +1,25 @@
 <template>
   <div id="calendar">
     <Header/>
-<CalendarLine/>
+ <CalendarLine/>
+
+
   </div>
 </template>
 
 <script>
-import CalendarLine from './CalendarLine.vue';
 import Header from './Header/Header.vue';
+import CalendarLine from './CalendarLine.vue'
 export default {
 name:'BigCalendar',
 components:{
-  CalendarLine,
-  Header
-}
+  Header,
+  CalendarLine
+},
+ items: [
+        { name: 'apple', price: '7' },
+        { name: 'orange', price: '12' }
+      ]
 }
 </script>
 
