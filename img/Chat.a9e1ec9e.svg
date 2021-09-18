@@ -1,0 +1,12 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 19" width="20" height="19">
+	<title>Chat Notification</title>
+	<defs>
+		<image width="25" height="24" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABkAAAAYCAYAAAAPtVbGAAABuElEQVRIie2VsWobQRCG9w1yj6BHCPPPwXaZRxC4NrrSpbA7Nxa4NUhvED2C3sDqhCsbJ2Xg1NmcCwsFIUJAf4rswuXQ7Z0gXTIwxe3N7jez89+cc/+k5Xn+8a8famaZiNyo6iMARheRUkRuzCwj+YHklGQZfNobAGAYDluLyFhVLVYT3i1F5H21Wq2+fvvB8+tXXtxWfPiyJ8lZJ0BEipDxOBWnqrbb7Q7n1688u3zh2eULr+7eSLLsCyj6VHw4HL5f3FZNyLp1g/d+cArAOedIzh6e97y6e/t9Xc97kpy0blDViYgs+wLqoO12u6mq6mcS4JxzoclFfDazLM/zTw0/KuMgCEaBtFVhAFhfAzCvSzd6GygqsRUSZZkstcMAzFR10gVJS6/DVHWRhBy7rnqGx64NwLweJyJrAMNkJm2N894PVNWaXu+NmWUA6L0fdEHmqnqfDGqxIP91n0DrlU3Desm3kc3yFICZZWFKdw9F5/78GAEMAYxS8UGR76q6MLOsExCvSlWnIlIC2ARoCWAUmxzm2wjA5xCTnNTHMpuF/0QRMxORIqw9BdluVHUhIuNTe/ffetkvODEIug5hI8QAAAAASUVORK5CYII="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<g id="Chat Notification">
+		<use id="Chat" href="#img1" transform="matrix(1,0,0,1,-2,-2)"/>
+	</g>
+</svg>

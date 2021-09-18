@@ -1,0 +1,27 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 25 24" width="25" height="24">
+	<title>hotel dashboard</title>
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="M-1 0L23 0L23 24L-1 24L-1 0Z" />
+		</clipPath>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: none } 
+		.shp1 { fill: none;stroke: #ffffff;stroke-linecap:round;stroke-width: 1.2 } 
+	</style>
+	<g id="hotel dashboard">
+		<g id="Group 1">
+			<g id="Left">
+				<g id="Schedule">
+					<g id="31">
+						<path id="31 (Background/Mask)" class="shp0" d="M1 0L25 0L25 24L1 24L1 0Z" />
+						<g id="31" clip-path="url(#cp1)">
+							<path id="Vector" class="shp1" d="M3.6 20.3C2.5 20.3 1.6 19.4 1.6 18.3L1.6 7.31C1.6 6.21 2.5 5.31 3.6 5.31L19.31 5.31C20.41 5.31 21.31 6.21 21.31 7.31L21.31 18.3C21.31 19.4 20.42 20.3 19.31 20.3L3.6 20.3Z" />
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>
