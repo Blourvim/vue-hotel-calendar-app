@@ -1,0 +1,23 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 31 26" width="31" height="26">
+	<title>hotel dashboard</title>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: none;stroke: #999999;stroke-linecap:round;stroke-width: 1.2 } 
+	</style>
+	<g id="hotel dashboard">
+		<g id="Group 1">
+			<g id="Left">
+				<g id="Analysis">
+					<g id="Group 1698">
+						<path id="Vector" class="shp0" d="M6.6 19.15L14.39 10.84L17.87 14.21L24.29 6.71" />
+						<path id="Vector" class="shp0" d="M20.12 6.83L24.29 6.6L24.52 10.77" />
+						<path id="Vector" class="shp0" d="M11.35 19.24L11.35 17.61" />
+						<path id="Vector" class="shp0" d="M15.2 19.24L15.2 14.61" />
+						<path id="Vector" class="shp0" d="M19.06 19.24L19.06 16.61" />
+						<path id="Vector" class="shp0" d="M22.91 19.24L22.91 12.61" />
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>
